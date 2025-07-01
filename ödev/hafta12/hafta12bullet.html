@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1> Fenerbahçe kazandı mı? </h1>
+    <p id="mac_sonucu"></p>
+    <button onclick="document.getElementByOd('myImage').src='Bahis.png'"> Bahis </button>
+    <br>
+    <button onclick="document.getElementByOd('myImage').src='fb.png'"> Fenerbahçe </button>
+    <button onclick="document.getElementByOd('myImage').src='gs.png'"> Galatasaray </button>
+    <img id="myImage" src="para.jpeg" style="width:100px">
+    <img id="myImage" src="uzgun.jpeg" style="width:100px">
+    <script type="text/javascript">
+        function skor(){
+            var sonuc=Math.floor(Math.random()*10);
+            document.getElementById("mac_sonucu").innerHTML=sonuc;
+            if(sonuc<4){
+                document.getElementById("mac_sonucu").innerHTML = "Fenerbahçe kazandı.";
+                document.getElementById('myImage').src='para.jpeg';
+            }
+            else if(sonuc>7){
+                document.getElementById("mac_sonucu").innerHTML = "Galatasaray kazandı.";
+                document.getElementById('myImage').src='uzgun.jpeg';
+            }
+            else{
+                document.getElementById("mac_sonucu").innerHTML = "Berabere.";
+            }
+        }
+        skor();
+    </script>
+</body>
+</html>

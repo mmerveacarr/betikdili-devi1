@@ -1,0 +1,3 @@
+Bu dersimizde iki farklı konuyu ele aldık.
+1. Web Scraping: requests ve BeautifulSoup kütüphanelerini kullanarak bir haber sitesinden başlık, tarih ve içerik bilgilerini çeken bir fonksiyon yazdık. Elde ettiğimiz bilgileri milligazete.txt adlı bir dosyaya kaydettik. Bu sayede HTML üzerinden veri çekmeyi ve dosyaya veri yazmayı öğrendik. Bir önce ki dersimizde işlediğimiz konuyu tekrar etmiş olduk.
+2. Grafik Çizimi: matplotlib kütüphanesini kullanarak 2D düzlemde noktalar, vektörler ve eksen çizgileri çizdik. Renkli noktalar ve oklar ile koordinat düzleminde vektör yönlerini görselleştirdik. 

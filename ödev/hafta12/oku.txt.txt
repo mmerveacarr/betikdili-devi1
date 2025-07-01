@@ -1,0 +1,5 @@
+Bu hafta HTML ve JavaScript kullanarak basit ama etkileşimli bir web sayfası geliştirdik.
+
+Sayfa açıldığında, rastgele bir sayı üretilerek Fenerbahçe ile Galatasaray arasındaki maç sonucu simüle ediliyor. Sayıya göre "Fenerbahçe kazandı", "Galatasaray kazandı" veya "Berabere" sonucu ekrana yazılıyor. Ayrıca, görseller de otomatik olarak değişiyor. 
+
+Bu çalışmayla HTML yapısını, JavaScript ile DOM manipülasyonunu ve temel koşul yapılarının nasıl çalıştığını öğrendik.

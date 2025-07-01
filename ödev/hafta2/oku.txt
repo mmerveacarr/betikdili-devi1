@@ -1,0 +1,2 @@
+Bu hafta temel bash script yazımı öğrenildi.
+Kullanıcıdan alınan IP veya domain'e ping atan basit bir script geliştirildi.

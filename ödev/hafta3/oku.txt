@@ -1,0 +1,2 @@
+Bu hafta rastgele sayı üretme (random) kullanılarak bir maç sonucu simülasyonu geliştirildi.
+Kod, Fenerbahçe ve Galatasaray arasında rastgele skorlar oluşturarak sonucu belirlemektedir.

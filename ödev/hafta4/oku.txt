@@ -1,0 +1,2 @@
+Bu hafta string işleme konuları çalışıldı.
+Verilen bir cümledeki kelimelerin uzunluklarını hesaplayan bir Python fonksiyonu geliştirildi.

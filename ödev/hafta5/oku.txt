@@ -1,0 +1,2 @@
+Bu hafta tarih formatlama ve döngülerle URL oluşturma çalışıldı.
+Ek olarak, isimlerin parçalara ayrılarak harf sayılarının hesaplandığı bir string işleme alıştırması yapıldı.
